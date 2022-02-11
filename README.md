@@ -18,3 +18,4 @@ Each animation has a unique id stored in its JSON file, and this can be used to 
 This is still very early alpha software. If you spot any bugs, make sure to tell me. You can email me at thesam54123@gmail.com. If you feel you can improve upon this and the related repos, feel free to create a pull request. This is built in Java 1.8.0
 
 Datapack demo: http://download1338.mediafire.com/1je3pbd4qi7g/k5zobc942rm7tmi/animation.zip
+.
